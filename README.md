@@ -16,12 +16,18 @@ Labor omnia vincit.
 
 I'm very fond of programming. I've always had fascination for coding and building small applications.
 
-Programming is a way to shape the world around us by using words, but it's not any word. The game is clear and we must follow the rules. We should use the right words, in the right order to achieve our intent. In this regard, programming is akin to magic. That was exactly how the ancient Egiptians viewed the hieroglyphs.
+Programming is a way to shape the world around us by using words, but it's not any word. The game is clear and we must follow the rules. We should use the right words, in the right order to achieve our intent. In this regard, programming is akin to magic. That was exactly how the ancient Egyptians viewed the hieroglyphs.
 
-Therefore, we are the scribes of the future and the alchemists of the present. With our technical knowledge, by means of experimentation, we use the resources at our disposal for making a new reality. Something that others would deemed as impossible, for us, it means that we are still implementing the last integration tests.
+Therefore, we are the scribes of the future and the alchemists of the present. With our technical knowledge, by means of experimentation, we use the resources at our disposal for making a new reality. Something that others would deem as impossible, for us, it means that we are still implementing the last integration tests.
 
 Technology is a art. The art of turning our ideas into something that positively affects the people's lives, be it the closest or the farthest ones. A line of code of ours might do the difference in someone's life who is across the ocean. Literally, our words convey power!
 
 My dear artisan colleagues, welcome to the wonderful, arduous and bittersweet world of programming. Here your thoughts and ideas may become real!
 
 Labor omnia vincit.
+
+# Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marivaldosena&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marivaldosena&layout=compact&langs_count=10)
