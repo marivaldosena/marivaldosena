@@ -8,7 +8,7 @@ Therefore, we are the scribes of the future and the alchemists of the present. W
 
 Technology is a art. The art of turning our ideas into something that positively affects the people's lives, be it the closest or the farthest ones. A line of code of ours might do the difference in someone's life who is across the ocean. Literally, our words convey power!
 
-My dear artisan colleagues, welcome to the wonderful, arduous and bittersweet world of programming. Here your thoughts and ideas may become real!
+My dear colleague artisans, welcome to the wonderful, arduous and bittersweet world of programming. Here your thoughts and ideas may become real!
 
 Labor omnia vincit.
 
